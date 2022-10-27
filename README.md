@@ -1,3 +1,3 @@
 # kaggler
 
-The Notebooks "has been released under the Apache 2.0 open source license."
+Licence is placed for the notebooks which have been done for competitions.
